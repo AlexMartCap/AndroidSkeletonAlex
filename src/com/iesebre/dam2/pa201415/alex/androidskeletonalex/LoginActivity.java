@@ -83,8 +83,8 @@ public class LoginActivity extends FragmentActivity implements
 	 * Register your here app https://dev.twitter.com/apps/new and get your
 	 * consumer key and secret
 	 * */
-	static String TWITTER_CONSUMER_KEY = "8IQfD73lhKsnhvNx1rk95hnNM";
-	static String TWITTER_CONSUMER_SECRET = "EcCyUHMi0CTh70NijOfW2tSUsgKpmbKYGVAKUqCauadk9C15V3"; // place your consumer secret here
+	static String TWITTER_CONSUMER_KEY = "5Y4c8MYXE3JJoaz5atobS57F9";
+	static String TWITTER_CONSUMER_SECRET = "KiewtUINJGpt1a2OBsTOu1aoLDpxjT0T01i9EHslrvcw70wxE8"; // place your consumer secret here
 
 	// Preference Constants
 	static String PREFERENCE_NAME = "twitter_oauth";
